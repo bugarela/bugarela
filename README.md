@@ -28,8 +28,8 @@ my Haskell implementation of some type inference algorithms:
 
 All of these are things that I'm very interested in and I continually
 get to share them with my friends at the **[Função](https://github.com/funcao) Research
-Group** 💜. They are my biggest connection to academia right now since I'm not
-enrolled anywhere.
+Group** 💜. For the first semester of 2024, I'll be teaching formal methods as a temporary 
+lecturer at UDESC.
 
 I'm Brazillian 🇧🇷, I love it here, and you can find me on our beaches from December
 to February (yes, that's summer ☀️). I'm also a competitive dancer 💃, cat owner 🐈, and
