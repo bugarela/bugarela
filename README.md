@@ -28,9 +28,9 @@ my Haskell implementation of some type inference algorithms:
 
 All of these are things that I'm very interested in and I continually
 get to share them with my friends at the **[Função](https://github.com/funcao) Research
-Group** 💜. For the first semester of 2024, I'll be teaching formal methods as a temporary 
+Group** 💜. Since the start of 2024, I'm teaching formal methods as a temporary 
 lecturer at UDESC.
 
-I'm Brazillian 🇧🇷, I love it here, and you can find me on our beaches from December
-to February (yes, that's summer ☀️). I'm also a competitive dancer 💃, cat owner 🐈, and
-casual gamer 🎮.
+I'm Brazillian 🇧🇷, I love it here, and you can find me laying under the sun from December
+to February (yes, that's summer ☀️). I have a beautiful cat, I'm early Gen Z (with
+some Millenial traces) and I play games sometimes, although I'm really not competitive.
